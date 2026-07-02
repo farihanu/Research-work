@@ -177,13 +177,14 @@ AND
 
 Using the above search strategy, a comprehensive collection of research papers was gathered from different research domains. Instead of selecting papers from only one category, studies were collected across multiple perspectives, including diagnostic delay, emergency medicine, clinical decision support, machine learning, explainable artificial intelligence, and traditional clinical prediction studies.
 
-The collected paper abstracts and detailed summaries are organized separately in the **Literature Review** section of this repository to maintain a clear separation between topic exploration and detailed literature analysis.
+The collected paper abstracts and detailed summaries are organized separately in the **Literature** section of this repository to maintain a clear separation between topic exploration and detailed literature analysis.
 
 ---
 
 # 5. Next Step
 
-After completing the literature collection, each selected paper was reviewed and categorized to identify research trends, existing prediction models, current limitations, and potential research gaps. The complete collection of reviewed papers, along with their abstracts, has been organized in the literature/ folder of this repository under their respective research categories. These findings ultimately guided the selection of the final research topic, which is discussed in the following sections.
+After completing the literature collection, each paper was reviewed and categorized to identify research trends, existing prediction models, current limitations, and potential research gaps. These findings ultimately guided the selection of the final research topic, which is discussed in the following sections.
+
 # 6. Evolution of the Research Topic
 
 The research topic was not selected immediately. Instead, it evolved through multiple stages of literature exploration, critical analysis, and continuous refinement. The objective throughout this process was to identify a research problem that is clinically meaningful, technically feasible for an undergraduate Computer Science and Engineering (CSE) research project, and capable of making a practical contribution.
