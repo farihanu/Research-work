@@ -181,7 +181,7 @@ The collected paper abstracts and detailed summaries are organized separately in
 
 ---
 
-# 5. Next Step
+# 5. Analysis of Collected Literature
 
 After completing the literature collection, each paper was reviewed and categorized to identify research trends, existing prediction models, current limitations, and potential research gaps. These findings ultimately guided the selection of the final research topic, which is discussed in the following sections.
 
