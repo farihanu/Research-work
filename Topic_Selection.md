@@ -17,7 +17,7 @@ The literature search was conducted using the following academic databases:
 
 - Google Scholar
 - PubMed
-- Semantic Scholar
+- IEEE Xplore
 
 To ensure comprehensive coverage, the search was divided into five major research categories.
 
