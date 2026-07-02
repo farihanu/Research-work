@@ -177,17 +177,6 @@ AND
 
 Using the above search strategy, a comprehensive collection of research papers was gathered from different research domains. Instead of selecting papers from only one category, studies were collected across multiple perspectives, including diagnostic delay, emergency medicine, clinical decision support, machine learning, explainable artificial intelligence, and traditional clinical prediction studies.
 
-For each selected paper, the following information was documented:
-
-- Research title
-- Publication year
-- Authors
-- Abstract
-- Research objective
-- Key findings
-- Identified limitations
-- Relevance to the proposed research
-
 The collected paper abstracts and detailed summaries are organized separately in the **Literature Review** section of this repository to maintain a clear separation between topic exploration and detailed literature analysis.
 
 ---
