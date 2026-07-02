@@ -1,6 +1,6 @@
 AI ML and Traditional Clinical studies
 AI ML and Traditional Clinical studies
-CATEGORY 4 and 5:
+# CATEGORY 4 and 5:
 Prediction of respiratory insufficiency in Guillain-Barré syndrome
 Abstract
 Objective
